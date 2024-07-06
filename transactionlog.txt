@@ -1,0 +1,595 @@
+Bot 1 added sell limit order at 101.505 dollars. Sell queue size: 1
+Bot 2 added sell market order at 100 dollars. Sell queue size: 2
+Bot 1 added buy market order at 101 dollars. Buy queue size: 1
+Sold at: 101
+Bot 3 added buy market order at 100 dollars. Buy queue size: 1
+Bot 2 added sell market order at 101 dollars. Sell queue size: 2
+Bot 1 added buy market order at 100 dollars. Buy queue size: 2
+Bot 4 added sell limit order at 102.962 dollars. Sell queue size: 3
+Bot 2 added sell market order at 100 dollars. Sell queue size: 4
+Bot 1 added buy limit order at 97.8873 dollars. Buy queue size: 3
+Bot 3 added buy market order at 101 dollars. Buy queue size: 4
+Bot Sold at: 5 added sell market order at 101
+101 dollars. Sell queue size: 4
+Bot 4 added sell market order at 101 dollars. Sell queue size: 5
+Bot 2 added buy limit order at 96.9485 dollars. Buy queue size: 4
+Bot 1 added sell market order at 101 dollars. Sell queue size: 6
+Bot 3 added sell limit order at 103.574 dollars. Sell queue size: 7
+Bot 5 added buy limit order at 96.3187 dollars. Buy queue size: 5
+Bot 4 added sell limit order at 101.994 dollars. Sell queue size: 8
+Bot 3 added buy limit order at 98.1473 dollars. Buy queue size: 6
+Bot 2 added sell limit order at 101.675 dollars. Sell queue size: 9
+Bot 1 added buy limit order at 98.1899 dollars. Buy queue size: 7
+Bot 5 added buy market order at 101 dollars. Buy queue size: 8
+Bot 4 added buy limit order at 99.8463 dollars. Buy queue size: 9
+Bot 3 added buy limit order at 96.3403 dollars. Buy queue size: 10
+Bot 2 added buy market order at 101 dollars. Buy queue size: 11
+Bot 1 added buy limit order at 100.013 dollars. Buy queue size: 12
+Bot Sold at: 5 added buy limit order at 100.078 dollars. Buy queue size: 101
+12
+Bot 4 added sell market order at 101 dollars. Sell queue size: 9
+Bot 3 added buy market order at 101 dollars. Buy queue size: 13
+Bot 2 added buy limit order at 100.188 dollars. Buy queue size: 14
+Bot 1 added sell limit order at 105.468 dollars. Sell queue size: 10
+Sold at: 101
+Bot 5 added sell market order at 101 dollars. Sell queue size: 10
+Bot 4 added sell market order at 101 dollars. Sell queue size: 11
+Bot 3 added sell limit order at 101.319 dollars. Sell queue size: 12
+Bot 2 added buy market order at 101 dollars. Buy queue size: 14
+Bot 1 added buy limit order at 96.6212 dollars. Buy queue size: 15
+Sold at: 101
+Bot 5 added buy market order at 101 dollars. Buy queue size: 15
+Bot 4 added sell limit order at 101.131 dollars. Sell queue size: 12
+Bot 3 added sell limit order at 101.784 dollars. Sell queue size: 13
+Bot 2 added sell limit order at 104.667 dollars. Sell queue size: 14
+Bot 1 added sell limit order at 104.924 dollars. Sell queue size: 15
+Sold at: Bot 5 added buy market order at 101101 dollars. Buy queue size: 15
+
+Bot 4 added buy market order at 101 dollars. Buy queue size: 16
+Bot 3 added buy limit order at 97.3797 dollars. Buy queue size: 17
+Bot 2 added sell limit order at 102.71 dollars. Sell queue size: 15
+Bot 1 added sell market order at 101 dollars. Sell queue size: 16
+Sold at: 101
+Bot 5 added buy limit order at 99.5965 dollars. Buy queue size: 17
+Bot 4 added sell limit order at 103.677 dollars. Sell queue size: 16
+Bot 3 added sell limit order at 103.672 dollars. Sell queue size: 17
+Bot 2 added buy limit order at 96.8604 dollars. Buy queue size: 18
+Bot 1 added buy limit order at 100.744 dollars. Buy queue size: 19
+Sold at: 101
+Bot 5 added buy limit order at 97.8951 dollars. Buy queue size: 19
+Bot 4 added sell limit order at 104.209 dollars. Sell queue size: 17
+Bot 3 added buy limit order at 96.648 dollars. Buy queue size: 20
+Bot 2 added buy limit order at 98.2044 dollars. Buy queue size: 21
+Bot 1 added buy limit order at 96.88 dollars. Buy queue size: 22
+Sold at: Bot 5 added buy limit order at 101
+96.6696 dollars. Buy queue size: 22
+Bot 4 added buy market order at 101 dollars. Buy queue size: 23
+Bot 3 added sell limit order at 101.591 dollars. Sell queue size: 17
+Bot 2 added buy limit order at 100.147 dollars. Buy queue size: 24
+Bot 1 added buy market order at 101 dollars. Buy queue size: 25
+Sold at: Bot 101
+5 added sell limit order at 101.618 dollars. Sell queue size: 17
+Bot 4 added buy market order at 101 dollars. Buy queue size: 25
+Bot 3 added buy market order at 101 dollars. Buy queue size: 26
+Bot 2 added sell limit order at 102.829 dollars. Sell queue size: 18
+Bot 1 added buy market order at 101 dollars. Buy queue size: 27
+Bot 5 added sell limit order at 104.252 dollars. Sell queue size: 19
+Bot 4 added buy market order at 101.131 dollars. Buy queue size: 28
+Bot 2 added buy limit order at 97.6288 dollars. Buy queue size: 29
+Bot 3 added sell market order at 101 dollars. Sell queue size: 20
+Bot 1 added sell limit order at 101.728 dollars. Sell queue size: 21
+Sold at: 101.131
+Bot 5 added sell market order at 101.131 dollars. Sell queue size: 21
+Bot 4 added sell market order at 101.131 dollars. Sell queue size: 22
+Bot 2 added buy market order at 101 dollars. Buy queue size: 29
+Bot 3 added buy market order at 101 dollars. Buy queue size: 30
+Bot 1 added buy limit order at 98.4983 dollars. Buy queue size: 31
+Bot 5 added sell limit order at 103.98 dollars. Sell queue size: 23
+Bot 4 added sell market order at 101 dollars. Sell queue size: 24
+Bot 2 added buy market order at 101.131 dollars. Buy queue size: 32
+Bot 1 added sell limit order at 102.067 dollars. Sell queue size: 25
+Bot 3 added buy limit order at 97.8466 dollars. Buy queue size: 33
+Sold at: 101.131
+Bot 5 added sell market order at 101.131 dollars. Sell queue size: 25
+Bot 2 added buy market order at 101 dollars. Buy queue size: 33
+Bot 1 added buy market order at 101 dollars. Buy queue size: 34
+Bot 4 added buy market order at 101 dollars. Buy queue size: 35
+Bot 3 added sell market order at 101.131 dollars. Sell queue size: 26
+Bot 5 added sell limit order at 103.318 dollars. Sell queue size: 27
+Bot 2 added buy market order at 101.131 dollars. Buy queue size: 36
+Bot 1 added buy market order at 101.131 dollars. Buy queue size: 37
+Bot 3 added buy limit order at 97.075 dollars. Buy queue size: 38
+Bot 4 added buy market order at 101.131 dollars. Buy queue size: 39
+Sold at: 101.131
+Bot 5 added buy limit order at 98.6023 dollars. Buy queue size: 39
+Bot 2 added buy market order at 101.131 dollars. Buy queue size: 40
+Bot 1 added sell market order at 101.131 dollars. Sell queue size: 27
+Bot 3 added buy limit order at 100.826 dollars. Buy queue size: 41
+Bot 4 added sell market order at 101.131 dollars. Sell queue size: 28
+Sold at: 101.131
+Bot 5 added buy market order at 101.131 dollars. Buy queue size: 41
+Bot 2 added buy market order at 101.131 dollars. Buy queue size: 42
+Bot 1 added buy limit order at 96.8027 dollars. Buy queue size: 43
+Bot 3 added buy limit order at 97.7923 dollars. Buy queue size: 44
+Bot 4 added buy limit order at 99.5664 dollars. Buy queue size: 45
+Sold at: 101.131
+Bot 5 added buy market order at 101.131 dollars. Buy queue size: 45
+Bot 2 added buy limit order at 99.2611 dollars. Buy queue size: 46
+Bot 1 added sell limit order at 105.574 dollars. Sell queue size: 27
+Bot 3 added sell limit order at 103.534 dollars. Sell queue size: 28
+Bot 4 added buy limit order at 98.9352 dollars. Buy queue size: 47
+Sold at: Bot 5101.131
+ added buy market order at 101.131 dollars. Buy queue size: 47
+Bot 2 added sell limit order at 102.921 dollars. Sell queue size: 28
+Bot 1 added buy limit order at 96.8912 dollars. Buy queue size: 48
+Bot 3 added buy market order at 101.131 dollars. Buy queue size: 49
+Bot 4 added buy market order at 101.131 dollars. Buy queue size: 50
+Bot 5 added buy limit order at 99.8919 dollars. Buy queue size: 50
+Sold at: 101.131
+Bot 2 added buy limit order at 98.2839 dollars. Buy queue size: 51
+Bot 1 added buy limit order at 97.0139 dollars. Buy queue size: 52
+Bot 3 added sell market order at 101.131 dollars. Sell queue size: 28
+Bot 4 added sell limit order at 105.121 dollars. Sell queue size: 29
+Bot 5 added sell limit order at 102.718 dollars. Sell queue size: 30
+Sold at: 101.131
+Bot 2 added buy limit order at 100.119 dollars. Buy queue size: 52
+Bot 1 added sell limit order at 102.672 dollars. Sell queue size: 30
+Bot 3 added buy market order at 101.131 dollars. Buy queue size: 53
+Bot 4 added sell market order at 101.131 dollars. Sell queue size: 31
+Bot 5 added buy limit order at 97.8742 dollars. Buy queue size: 54
+Sold at: 101.131
+Bot 2 added sell market order at 101.131 dollars. Sell queue size: 31
+Bot 3 added buy market order at 101.131 dollars. Buy queue size: 54
+Bot 4 added sell market order at 101.131 dollars. Sell queue size: 32
+Bot 1 added buy market order at 101.131 dollars. Buy queue size: 55
+Sold at: 101.131
+Bot 5 added sell limit order at 105.234 dollars. Sell queue size: 32
+Bot 2 added sell limit order at 104.519 dollars. Sell queue size: 33
+Bot 3 added sell limit order at 105.568 dollars. Sell queue size: 34
+Bot 4 added sell limit order at 105.843 dollars. Sell queue size: 35
+Bot 1 added buy limit order at 100.719 dollars. Buy queue size: 55
+Sold at: Bot 101.131
+5 added sell limit order at 102.064 dollars. Sell queue size: 35
+Bot 2 added buy limit order at 100.006 dollars. Buy queue size: 55
+Bot 3 added buy limit order at 96.703 dollars. Buy queue size: 56
+Bot 4 added sell limit order at 105.495 dollars. Sell queue size: 36
+Bot 1 added buy market order at 101.131 dollars. Buy queue size: 57
+Sold at: 101.131
+Bot 5 added sell market order at 101.131 dollars. Sell queue size: 36
+Bot 2 added buy market order at 101.131 dollars. Buy queue size: 57
+Bot 3 added sell limit order at 105.443 dollars. Sell queue size: 37
+Bot 4 added sell market order at 101.131 dollars. Sell queue size: 38
+Bot 1 added buy limit order at 100.429 dollars. Buy queue size: 58
+Sold at: 101.131
+Bot 5 added sell market order at 101.131 dollars. Sell queue size: 38
+Bot 2 added buy limit order at 98.4846 dollars. Buy queue size: 58
+Bot 4 added buy market order at 101.131 dollars. Buy queue size: 59
+Bot 1 added sell limit order at 102.013 dollars. Sell queue size: 39
+Bot 3 added sell limit order at 103.744 dollars. Sell queue size: 40
+Sold at: 101.131
+Bot 5 added buy limit order at 99.7347 dollars. Buy queue size: 59
+Bot 2 added sell limit order at 103.701 dollars. Sell queue size: 40
+Bot 1 added sell limit order at 103.392 dollars. Sell queue size: 41
+Bot 4 added buy limit order at 96.4363 dollars. Buy queue size: 60
+Bot 3 added sell market order at 101.131 dollars. Sell queue size: 42
+Sold at: 101.131
+Bot 5 added sell limit order at 102.272 dollars. Sell queue size: 42
+Bot 2 added buy market order at 101.131 dollars. Buy queue size: 60
+Bot 4 added buy limit order at 98.0438 dollars. Buy queue size: 61
+Bot 3 added sell market order at 101.131 dollars. Sell queue size: 43
+Bot 1 added sell market order at 101.131 dollars. Sell queue size: 44
+Sold at: 101.131
+Bot 5 added buy market order at 101.131 dollars. Buy queue size: 61
+Bot 2 added sell limit order at 105.06 dollars. Sell queue size: 44
+Bot 1 added sell limit order at 103.647 dollars. Sell queue size: 45
+Bot 3 added buy limit order at 97.1775 dollars. Buy queue size: 62
+Bot 4 added sell limit order at 104.046 dollars. Sell queue size: 46
+Sold at: 101.131
+Bot 5 added sell market order at 101.131 dollars. Sell queue size: 46
+Bot 4 added buy market order at 101.131 dollars. Buy queue size: 62
+Bot 2 added sell limit order at 104.991 dollars. Sell queue size: 47
+Bot 1 added sell market order at 101.131 dollars. Sell queue size: 48
+Bot 3 added buy limit order at 98.2339 dollars. Buy queue size: 63
+Sold at: Bot 101.131
+5 added sell market order at 101.131 dollars. Sell queue size: 48
+Bot 4 added buy limit order at 97.8644 dollars. Buy queue size: 63
+Bot 2 added buy limit order at 98.1801 dollars. Buy queue size: 64
+Bot 3 added buy limit order at 99.7791 dollars. Buy queue size: 65
+Bot 1 added sell limit order at 105.625 dollars. Sell queue size: 49
+Sold at: 101.131
+Bot 5 added sell market order at 101.131 dollars. Sell queue size: 49
+Bot 3 added buy limit order at 97.3676 dollars. Buy queue size: 65
+Bot 4 added sell market order at 101.131 dollars. Sell queue size: 50
+Bot 1 added sell market order at 101.131 dollars. Sell queue size: 51
+Bot 2 added buy limit order at 98.7349 dollars. Buy queue size: 66
+Sold at: 101.131
+Bot 5 added sell market order at 101.131 dollars. Sell queue size: 51
+Bot 2 added buy market order at 101.131 dollars. Buy queue size: 66
+Bot 4 added sell limit order at 103.018 dollars. Sell queue size: 52
+Bot 1 added buy limit order at 98.8762 dollars. Buy queue size: 67
+Bot 3 added buy limit order at 98.2551 dollars. Buy queue size: 68
+Sold at: Bot 5101.131 added buy market order at 
+101.131 dollars. Buy queue size: 68
+Bot 2 added sell limit order at 103.453 dollars. Sell queue size: 52
+Bot 4 added buy market order at 101.131 dollars. Buy queue size: 69
+Bot 1 added buy limit order at 97.2533 dollars. Buy queue size: 70
+Bot 3 added buy market order at 101.131 dollars. Buy queue size: 71
+Sold at: Bot 5101.131
+ added sell limit order at 102.966 dollars. Sell queue size: 52
+Bot 1 added buy market order at 101.131 dollars. Buy queue size: 71
+Bot 2 added buy limit order at 96.1952 dollars. Buy queue size: 72
+Bot 4 added buy market order at 101.131 dollars. Buy queue size: 73
+Bot 3 added buy limit order at 98.6411 dollars. Buy queue size: 74
+Bot 5 added buy limit order at 101.055 dollars. Buy queue size: 74
+Sold at: 101.131
+Bot 1 added sell market order at 101.131 dollars. Sell queue size: 52
+Bot 2 added buy limit order at 100.073 dollars. Buy queue size: 75
+Bot 4 added buy limit order at 96.3357 dollars. Buy queue size: 76
+Bot 3 added buy limit order at 97.8277 dollars. Buy queue size: 77
+Bot Sold at: 5 added buy limit order at 101.131
+97.3381 dollars. Buy queue size: 77
+Bot 1 added buy market order at 101.131 dollars. Buy queue size: 78
+Bot 2 added buy market order at 101.131 dollars. Buy queue size: 79
+Bot 4 added buy limit order at 98.5324 dollars. Buy queue size: 80
+Bot 3 added buy limit order at 100.233 dollars. Buy queue size: 81
+Sold at: 101.131
+Bot 5 added sell limit order at 103.178 dollars. Sell queue size: 51
+Bot 1 added sell market order at 101.131 dollars. Sell queue size: 52
+Bot 4 added buy limit order at 97.4513 dollars. Buy queue size: 81
+Bot 2 added buy market order at 101.131 dollars. Buy queue size: 82
+Bot 3 added sell market order at 101.131 dollars. Sell queue size: 53
+Sold at: 101.131
+Bot 5 added buy market order at 101.131 dollars. Buy queue size: 82
+Bot 1 added sell market order at 101.131 dollars. Sell queue size: 53
+Bot 4 added buy market order at 101.131 dollars. Buy queue size: 83
+Bot 2 added buy market order at 101.131 dollars. Buy queue size: 84
+Bot 3 added sell limit order at 105.379 dollars. Sell queue size: 54
+Sold at: 101.131
+Bot 1 added sell limit order at 103.517 dollars. Sell queue size: 54
+Bot 5 added sell market order at 101.131 dollars. Sell queue size: 55
+Bot 3 added buy market order at 101.131 dollars. Buy queue size: 84
+Bot 2 added buy market order at 101.131 dollars. Buy queue size: 85
+Bot 4 added sell limit order at 102.288 dollars. Sell queue size: 56
+Sold at: 101.131
+Bot 1 added sell limit order at 105.099 dollars. Sell queue size: 56
+Bot 5 added buy market order at 101.131 dollars. Buy queue size: 85
+Bot 2 added buy market order at 101.131 dollars. Buy queue size: 86
+Bot 3 added buy market order at 101.131 dollars. Buy queue size: 87
+Bot 4 added sell market order at 101.131 dollars. Sell queue size: 57
+Sold at: Bot 1 added buy market order at 101.131101.131 dollars. Buy queue size: 
+87
+Bot 5 added sell limit order at 105.074 dollars. Sell queue size: 57
+Bot 2 added buy market order at 101.131 dollars. Buy queue size: 88
+Bot 3 added sell limit order at 103.363 dollars. Sell queue size: 58
+Bot 4 added sell market order at 101.131 dollars. Sell queue size: 59
+Sold at: Bot 1 added sell market order at 101.131
+101.131 dollars. Sell queue size: 59
+Bot 5 added buy market order at 101.131 dollars. Buy queue size: 88
+Bot 2 added sell market order at 101.131 dollars. Sell queue size: 60
+Bot 3 added sell market order at 101.131 dollars. Sell queue size: 61
+Bot 4 added buy market order at 101.131 dollars. Buy queue size: 89
+Sold at: 101.131
+Bot 1 added buy limit order at 99.9969 dollars. Buy queue size: 89
+Bot 5 added sell market order at 101.131 dollars. Sell queue size: 61
+Bot 2 added buy market order at 101.131 dollars. Buy queue size: 90
+Bot 3 added buy limit order at 96.8199 dollars. Buy queue size: 91
+Bot 4 added sell market order at 101.131 dollars. Sell queue size: 62
+Sold at: 101.131
+Bot 1 added buy market order at 101.131 dollars. Buy queue size: 91
+Bot 2 added buy market order at 101.131 dollars. Buy queue size: 92
+Bot 5 added buy market order at 101.131 dollars. Buy queue size: 93
+Bot 3 added sell limit order at 103.401 dollars. Sell queue size: 62
+Bot 4 added sell limit order at 105.525 dollars. Sell queue size: 63
+Sold at: Bot 1101.131 added sell limit order at 
+102.449 dollars. Sell queue size: 63
+Bot 2 added buy limit order at 97.6138 dollars. Buy queue size: 93
+Bot 5 added buy market order at 101.131 dollars. Buy queue size: 94
+Bot 3 added buy market order at 101.131 dollars. Buy queue size: 95
+Bot 4 added sell limit order at 103.159 dollars. Sell queue size: 64
+Sold at: 101.131
+Bot 1 added sell limit order at 104.29 dollars. Sell queue size: 64
+Bot 2 added sell market order at 101.131 dollars. Sell queue size: 65
+Bot 3 added sell market order at 101.131 dollars. Sell queue size: 66
+Bot 4 added buy limit order at 99.7322 dollars. Buy queue size: 95
+Bot 5 added sell market order at 101.131 dollars. Sell queue size: 67
+Sold at: Bot 1 added sell market order at 101.131 dollars. Sell queue size: 67101.131
+
+Bot 2 added buy limit order at 100.279 dollars. Buy queue size: 95
+Bot 3 added sell market order at 101.131 dollars. Sell queue size: 68
+Bot 4 added sell limit order at 102.379 dollars. Sell queue size: 69
+Bot 5 added sell market order at 101.131 dollars. Sell queue size: 70
+Bot Sold at: 1 added buy limit order at 96.7786 dollars. Buy queue size: 95
+101.131
+Bot 2 added sell limit order at 103.476 dollars. Sell queue size: 70
+Bot 3 added buy market order at 101.131 dollars. Buy queue size: 96
+Bot 4 added sell limit order at 105.803 dollars. Sell queue size: 71
+Bot 5 added buy market order at 101.131 dollars. Buy queue size: 97
+Bot 1 added buy limit order at 98.7146 dollars. Buy queue size: 98
+Sold at: 101.131
+Bot 2 added sell limit order at 101.805 dollars. Sell queue size: 71
+Bot 4 added buy market order at 101.131 dollars. Buy queue size: 98
+Bot 3 added sell market order at 101.131 dollars. Sell queue size: 72
+Bot 5 added sell market order at 101.131 dollars. Sell queue size: 73
+Bot 1 added sell market order at 101.131 dollars. Sell queue size: 74
+Sold at: 101.131
+Bot 2 added buy limit order at 96.9378 dollars. Buy queue size: 98
+Bot 3 added sell market order at 101.131 dollars. Sell queue size: 74
+Bot 4 added sell market order at 101.131 dollars. Sell queue size: 75
+Bot 5 added sell limit order at 102.287 dollars. Sell queue size: 76
+Sold at: Bot 1 added buy limit order at 101.131
+97.5471 dollars. Buy queue size: 98
+Bot 2 added sell limit order at 104.693 dollars. Sell queue size: 76
+Bot 3 added sell market order at 101.131 dollars. Sell queue size: 77
+Bot 4 added buy limit order at 98.59 dollars. Buy queue size: 99
+Bot 5 added buy limit order at 96.453 dollars. Buy queue size: 100
+Bot 5 added sell limit order at 101.223 dollars. Sell queue size: 78
+Sold at: Bot 1101.131
+ added sell limit order at 103.577 dollars. Sell queue size: 78
+Bot 2 added sell limit order at 102.959 dollars. Sell queue size: 79
+Bot 4 added sell market order at 101.131 dollars. Sell queue size: 80
+Bot 3 added buy limit order at 97.8131 dollars. Buy queue size: 100
+Bot 5 added sell limit order at 103.014 dollars. Sell queue size: 81
+Sold at: 101.131
+Bot 1 added buy limit order at 99.1105 dollars. Buy queue size: 100
+Bot 2 added sell limit order at 104.881 dollars. Sell queue size: 81
+Bot 4 added buy market order at 101.131 dollars. Buy queue size: 101
+Bot 3 added sell limit order at 105.307 dollars. Sell queue size: 82
+Bot 5 added sell limit order at 104.878 dollars. Sell queue size: 83
+Sold at: 101.131
+Bot 1 added sell limit order at 103.601 dollars. Sell queue size: 83
+Bot 2 added sell market order at 101.131 dollars. Sell queue size: 84
+Bot 4 added sell limit order at 101.162 dollars. Sell queue size: 85
+Bot 3 added buy market order at 101.131 dollars. Buy queue size: 101
+Bot 5 added buy market order at Sold at: 101.131 dollars. Buy queue size: 101.131101
+
+Bot 2 added sell market order at 101.131 dollars. Sell queue size: 85
+Bot 1 added sell limit order at 102.119 dollars. Sell queue size: 86
+Bot 3 added sell limit order at 104.621 dollars. Sell queue size: 87
+Bot 4 added sell market order at 101.131 dollars. Sell queue size: 88
+Sold at: Bot 101.131
+1 added buy market order at 101.131 dollars. Buy queue size: 101
+Bot 2 added buy limit order at 100.279 dollars. Buy queue size: 102
+Bot 5 added buy market order at 101.131 dollars. Buy queue size: 103
+Bot 3 added sell market order at 101.131 dollars. Sell queue size: 88
+Bot 4 added buy limit order at 97.9345 dollars. Buy queue size: 104
+Sold at: Bot 1101.131 added buy market order at 
+101.131 dollars. Buy queue size: 104
+Bot 5 added buy limit order at 100.109 dollars. Buy queue size: 105
+Bot 2 added sell market order at 101.131 dollars. Sell queue size: 88
+Bot 4 added buy limit order at 98.1013 dollars. Buy queue size: 106
+Bot 3 added buy market order at 101.131 dollars. Buy queue size: 107
+Sold at: 101.131
+Bot 1 added buy market order at 101.131 dollars. Buy queue size: 107
+Bot 5 added buy market order at 101.131 dollars. Buy queue size: 108
+Bot 3 added buy limit order at 99.4177 dollars. Buy queue size: 109
+Bot 4 added buy limit order at 96.4267 dollars. Buy queue size: 110
+Bot 2 added sell limit order at 102.339 dollars. Sell queue size: 88
+Sold at: 101.131
+Bot 1 added sell market order at 101.131 dollars. Sell queue size: 88
+Bot 3 added buy limit order at 97.4202 dollars. Buy queue size: 110
+Bot 5 added buy market order at 101.131 dollars. Buy queue size: 111
+Bot 4 added sell limit order at 101.207 dollars. Sell queue size: 89
+Bot 2 added sell limit order at 105.706 dollars. Sell queue size: 90
+Sold at: Bot 101.1311 added buy limit order at 98.3329 dollars. Buy queue size: 111
+
+Bot 3 added sell limit order at 102.964 dollars. Sell queue size: 90
+Bot 5 added sell market order at 101.131 dollars. Sell queue size: 91
+Bot 2 added buy limit order at 97.822 dollars. Buy queue size: 112
+Bot 4 added sell market order at 101.131 dollars. Sell queue size: 92
+Sold at: 101.131
+Bot 1 added sell market order at 101.131 dollars. Sell queue size: 92
+Bot 3 added sell market order at 101.131 dollars. Sell queue size: 93
+Bot 2 added buy limit order at 97.3269 dollars. Buy queue size: 112
+Bot 5 added sell market order at 101.131 dollars. Sell queue size: 94
+Bot 4 added sell market order at 101.131 dollars. Sell queue size: 95
+Bot 1 added sell market order at 101.131 dollars. Sell queue size: 95
+Sold at: 101.131
+Bot 3 added sell limit order at 101.656 dollars. Sell queue size: 96
+Bot 5 added buy market order at 101.131 dollars. Buy queue size: 112
+Bot 4 added buy limit order at 96.6362 dollars. Buy queue size: 113
+Bot 2 added sell limit order at 105.431 dollars. Sell queue size: 97
+Bot 1 added sell limit order at 104.592 dollars. Sell queue size: 98
+Sold at: 101.131
+Bot 3 added sell market order at 101.131 dollars. Sell queue size: 98
+Bot 5 added buy market order at 101.131 dollars. Buy queue size: 113
+Bot 4 added buy market order at 101.131 dollars. Buy queue size: 114
+Bot 2 added buy limit order at 96.6876 dollars. Buy queue size: 115
+Bot 1 added sell limit order at 104.601 dollars. Sell queue size: 99
+Sold at: 101.131
+Bot 3 added sell limit order at 101.25 dollars. Sell queue size: 99
+Bot 5 added buy limit order at 98.6036 dollars. Buy queue size: 115
+Bot 4 added buy market order at 101.131 dollars. Buy queue size: 116
+Bot 2 added sell limit order at 104.547 dollars. Sell queue size: 100
+Bot 1 added sell limit order at 101.537 dollars. Sell queue size: 101
+Sold at: 101.131
+Bot 3 added buy market order at 101.131 dollars. Buy queue size: 116
+Bot 4 added sell limit order at 103.972 dollars. Sell queue size: 101
+Bot 5 added sell limit order at 106.039 dollars. Sell queue size: 102
+Bot 2 added buy limit order at 100.773 dollars. Buy queue size: 117
+Bot 1 added sell limit order at Sold at: 104.859 dollars. Sell queue size: 102101.131
+
+Bot 3 added buy limit order at 97.5421 dollars. Buy queue size: 117
+Bot 4 added sell limit order at 102.48 dollars. Sell queue size: 103
+Bot 5 added buy market order at 101.131 dollars. Buy queue size: 118
+Bot 2 added buy limit order at 97.7763 dollars. Buy queue size: 119
+Sold at: 101.131
+Bot 1 added sell limit order at 104.654 dollars. Sell queue size: 103
+Bot 3 added buy market order at 101.131 dollars. Buy queue size: 119
+Bot 4 added sell market order at 101.131 dollars. Sell queue size: 104
+Bot 5 added buy market order at 101.131 dollars. Buy queue size: 120
+Bot 2 added sell limit order at 103.821 dollars. Sell queue size: 105
+Sold at: 101.131
+Bot 1 added buy market order at 101.131 dollars. Buy queue size: 120
+Bot 3 added buy market order at 101.131 dollars. Buy queue size: 121
+Bot 4 added buy limit order at 97.2111 dollars. Buy queue size: 122
+Bot 5 added sell limit order at 102.108 dollars. Sell queue size: 105
+Bot 2 added buy limit order at 96.8654 dollars. Buy queue size: 123
+Sold at: 101.131
+Bot 1 added buy market order at 101.131 dollars. Buy queue size: 123
+Bot 3 added sell market order at 101.131 dollars. Sell queue size: 105
+Bot 4 added sell market order at 101.131 dollars. Sell queue size: 106
+Bot 5 added sell limit order at 104.877 dollars. Sell queue size: 107
+Bot 2 added buy limit order at 96.2785 dollars. Buy queue size: 124
+Sold at: 101.131
+Bot 1 added sell limit order at 105.356 dollars. Sell queue size: 107
+Bot 3 added buy limit order at 99.0089 dollars. Buy queue size: 124
+Bot 4 added buy market order at 101.131 dollars. Buy queue size: 125
+Bot 5 added buy limit order at 98.522 dollars. Buy queue size: 126
+Bot 2 added buy market order at 101.131 dollars. Buy queue size: 127
+Sold at: 101.131
+Bot 1 added sell market order at 101.131 dollars. Sell queue size: 107
+Bot 3 added buy limit order at 99.5695 dollars. Buy queue size: 127
+Bot 4 added buy market order at 101.131 dollars. Buy queue size: 128
+Bot 5 added buy market order at 101.131 dollars. Buy queue size: 129
+Bot 2 added buy market order at 101.131 dollars. Buy queue size: 130
+Sold at: 101.131
+Bot 1 added sell limit order at 103.682 dollars. Sell queue size: 107
+Bot 3 added buy market order at 101.131 dollars. Buy queue size: 130
+Bot 4 added sell market order at 101.131 dollars. Sell queue size: 108
+Bot 5 added sell market order at 101.131 dollars. Sell queue size: 109
+Bot 2 added buy market order at 101.131 dollars. Buy queue size: 131
+Sold at: 101.131
+Bot 1 added sell limit order at 103.966 dollars. Sell queue size: 109
+Bot 3 added sell market order at 101.131 dollars. Sell queue size: 110
+Bot 4 added buy market order at 101.131 dollars. Buy queue size: 131
+Bot 5 added buy limit order at 97.661 dollars. Buy queue size: 132
+Bot 2 added buy market order at 101.131 dollars. Buy queue size: 133
+Sold at: 101.131
+Bot 1 added buy market order at 101.131 dollars. Buy queue size: 133
+Bot 3 added buy limit order at 96.2123 dollars. Buy queue size: 134
+Bot 5 added buy limit order at 99.2169 dollars. Buy queue size: 135
+Bot 4 added buy limit order at 99.3017 dollars. Buy queue size: 136
+Bot 2 added sell limit order at 105.389 dollars. Sell queue size: 110
+Sold at: Bot 101.131
+1 added sell limit order at 101.809 dollars. Sell queue size: 110
+Bot 3 added sell limit order at 102.434 dollars. Sell queue size: 111
+Bot 4 added buy market order at 101.131 dollars. Buy queue size: 136
+Bot 5 added sell limit order at 104.661 dollars. Sell queue size: 112
+Bot 2 added buy market order at 101.131 dollars. Buy queue size: 137
+Sold at: 101.131
+Bot 1 added sell limit order at 105.926 dollars. Sell queue size: 112
+Bot 3 added buy market order at 101.131 dollars. Buy queue size: 137
+Bot 4 added sell market order at 101.131 dollars. Sell queue size: 113
+Bot 5 added sell limit order at 102.398 dollars. Sell queue size: 114
+Bot 2 added buy limit order at 96.5644 dollars. Buy queue size: 138
+Sold at: 101.131
+Bot 1 added buy limit order at 100.404 dollars. Buy queue size: 138
+Bot 3 added sell market order at 101.131 dollars. Sell queue size: 114
+Bot 5 added buy market order at 101.131 dollars. Buy queue size: 139
+Bot 4 added sell limit order at 104.953 dollars. Sell queue size: 115
+Bot 2 added buy market order at 101.131 dollars. Buy queue size: 140
+Sold at: Bot 101.131
+1 added sell market order at 101.131 dollars. Sell queue size: 115
+Bot 3 added buy market order at 101.131 dollars. Buy queue size: 140
+Bot 4 added sell market order at 101.131 dollars. Sell queue size: 116
+Bot 5 added buy market order at 101.131 dollars. Buy queue size: 141
+Bot 2 added sell limit order at 103.023 dollars. Sell queue size: 117
+Sold at: Bot 101.1311 added sell limit order at 103.84 dollars. Sell queue size: 117
+
+Bot 3 added sell market order at 101.131 dollars. Sell queue size: 118
+Bot 4 added sell limit order at 101.616 dollars. Sell queue size: 119
+Bot 2 added sell limit order at 101.711 dollars. Sell queue size: 120
+Bot 5 added sell market order at 101.131 dollars. Sell queue size: 121
+Bot 1 added buy market order at 101.131 dollars. Buy queue size: 141
+Sold at: 101.131
+Bot 3 added buy market order at 101.131 dollars. Buy queue size: 141
+Bot 2 added sell limit order at 104.029 dollars. Sell queue size: 121
+Bot 4 added sell limit order at 101.454 dollars. Sell queue size: 122
+Bot 5 added sell limit order at 105.49 dollars. Sell queue size: 123
+Bot 1 added sell market order at 101.131 dollars. Sell queue size: 124
+Sold at: Bot 101.1313 added buy market order at 
+101.131 dollars. Buy queue size: 141
+Bot 2 added sell market order at 101.131 dollars. Sell queue size: 124
+Bot 4 added sell limit order at 102.422 dollars. Sell queue size: 125
+Bot 5 added sell market order at 101.131 dollars. Sell queue size: 126
+Bot 1 added sell market order at 101.131 dollars. Sell queue size: 127
+Sold at: Bot 101.131
+3 added sell market order at 101.131 dollars. Sell queue size: 127
+Bot 2 added sell limit order at 102.941 dollars. Sell queue size: 128
+Bot 4 added buy limit order at 97.454 dollars. Buy queue size: 141
+Bot 5 added sell market order at 101.131 dollars. Sell queue size: 129
+Bot 1 added sell limit order at 105.644 dollars. Sell queue size: 130
+Sold at: Bot 101.131
+3 added sell market order at 101.131 dollars. Sell queue size: 130
+Bot 4 added buy limit order at 100.059 dollars. Buy queue size: 141
+Bot 2 added sell market order at 101.131 dollars. Sell queue size: 131
+Bot 5 added sell limit order at 104.64 dollars. Sell queue size: 132
+Bot 1 added sell limit order at 104.115 dollars. Sell queue size: 133
+Sold at: Bot 101.131
+3 added sell market order at 101.131 dollars. Sell queue size: 133
+Bot 4 added buy market order at 101.131 dollars. Buy queue size: 141
+Bot 5 added sell limit order at 105.408 dollars. Sell queue size: 134
+Bot 2 added sell market order at 101.131 dollars. Sell queue size: 135
+Bot 1 added sell market order at 101.131 dollars. Sell queue size: 136
+Sold at: 101.131
+Bot 3 added sell market order at 101.131 dollars. Sell queue size: 136
+Bot 4 added sell limit order at 103.909 dollars. Sell queue size: 137
+Bot 5 added buy market order at 101.131 dollars. Buy queue size: 141
+Bot 2 added sell limit order at 103.241 dollars. Sell queue size: 138
+Bot 1 added buy limit order at 99.7463 dollars. Buy queue size: 142
+Sold at: Bot 3 added sell limit order at 102.071 dollars. Sell queue size: 138
+101.131
+Bot 4 added buy limit order at 98.2318 dollars. Buy queue size: 142
+Bot 5 added buy market order at 101.131 dollars. Buy queue size: 143
+Bot 2 added buy limit order at 101.024 dollars. Buy queue size: 144
+Bot 1 added buy limit order at 98.2122 dollars. Buy queue size: 145
+Bot 3 added sell limit order at Sold at: 102.976 dollars. Sell queue size: 138
+101.131
+Bot 4 added buy market order at 101.131 dollars. Buy queue size: 145
+Bot 5 added sell limit order at 102.151 dollars. Sell queue size: 139
+Bot 2 added buy limit order at 96.2192 dollars. Buy queue size: 146
+Bot 1 added sell limit order at 105.474 dollars. Sell queue size: 140
+Sold at: Bot 101.131
+3 added buy limit order at 98.1084 dollars. Buy queue size: 146
+Bot 4 added buy market order at 101.131 dollars. Buy queue size: 147
+Bot 2 added sell limit order at 102.198 dollars. Sell queue size: 140
+Bot 5 added buy limit order at 96.9708 dollars. Buy queue size: 148
+Bot 1 added sell market order at 101.131 dollars. Sell queue size: 141
+Sold at: Bot 101.131
+3 added sell limit order at 105.567 dollars. Sell queue size: 141
+Bot 4 added sell limit order at 101.533 dollars. Sell queue size: 142
+Bot 5 added sell market order at 101.131 dollars. Sell queue size: 143
+Bot 2 added sell market order at 101.131 dollars. Sell queue size: 144
+Bot 1 added buy market order at 101.131 dollars. Buy queue size: 148
+Sold at: 101.131
+Bot 3 added buy limit order at 96.5582 dollars. Buy queue size: 148
+Bot 4 added sell market order at 101.131 dollars. Sell queue size: 144
+Bot 5 added buy market order at 101.131 dollars. Buy queue size: 149
+Bot 2 added sell limit order at 103.514 dollars. Sell queue size: 145
+Bot 1 added buy limit order at 101.029 dollars. Buy queue size: 150
+Sold at: 101.131
+Bot 3 added buy limit order at 100.031 dollars. Buy queue size: 150
+Bot 4 added buy limit order at 99.5395 dollars. Buy queue size: 151
+Bot 5 added buy limit order at 98.5978 dollars. Buy queue size: 152
+Bot 2 added buy market order at 101.131 dollars. Buy queue size: 153
+Bot 1 added buy market order at 101.131 dollars. Buy queue size: 154
+Bot Sold at: 3 added sell limit order at 105.362 dollars. Sell queue size: 101.131144
+
+Bot 4 added buy market order at 101.131 dollars. Buy queue size: 154
+Bot 5 added sell market order at 101.131 dollars. Sell queue size: 145
+Bot 2 added sell limit order at 105.486 dollars. Sell queue size: 146
+Bot 1 added buy limit order at 97.5266 dollars. Buy queue size: 155
+Sold at: Bot 101.1313 added sell limit order at 101.225 dollars. Sell queue size: 146
+
+Bot 4 added buy market order at 101.131 dollars. Buy queue size: 155
+Bot 5 added sell limit order at 101.831 dollars. Sell queue size: 147
+Bot 2 added buy limit order at 98.9653 dollars. Buy queue size: 156
+Bot 1 added sell limit order at 102.963 dollars. Sell queue size: 148
+Bot 3 added sell limit order at 104.426Sold at:  dollars. Sell queue size: 148
+101.131
+Bot 4 added buy market order at 101.131 dollars. Buy queue size: 156
+Bot 5 added buy market order at 101.131 dollars. Buy queue size: 157
+Bot 2 added sell limit order at 101.754 dollars. Sell queue size: 149
+Bot 1 added sell limit order at 105.376 dollars. Sell queue size: 150
+Bot Sold at: 3 added buy market order at 101.131
+101.131 dollars. Buy queue size: 157
+Bot 4 added sell market order at 101.131 dollars. Sell queue size: 150
+Bot 5 added sell limit order at 103.318 dollars. Sell queue size: 151
+Bot 2 added sell limit order at 101.384 dollars. Sell queue size: 152
+Bot 1 added sell limit order at 101.763 dollars. Sell queue size: 153
+Bot 3 added sell market order at 101.131 dollars. Sell queue size: 154
+Bot 4 added sell limit order at 103.244 dollars. Sell queue size: 155
+Bot 5 added buy limit order at 96.6287 dollars. Buy queue size: 158
+Bot 2 added sell limit order at 102.506 dollars. Sell queue size: 156
+Simulation finished
+Python script executed successfully.
